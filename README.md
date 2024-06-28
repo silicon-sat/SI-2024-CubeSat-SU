@@ -5,6 +5,8 @@ Repository for Summer Intership 2024 "Intro to CubeSat and Satellite Communicati
 
 ## Lab-1 Introduction to ESP32
 
+- [Datasheet ESP32](https://github.com/silicon-sat/SI-2024-CubeSat/blob/main/docs/Datasheet-ESP32.pdf)
+
 ## Lab-2 BLinking LED
 
 ## Lab-3 Dimming LED
