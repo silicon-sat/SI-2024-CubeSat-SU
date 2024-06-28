@@ -9,7 +9,7 @@
 
 ## Lab-2 BLinking LED
 
-- [Source File](Lab/Arduino/blinkingLED.ino)
+- [Source File](Lab/arduino/blinkingLED.ino)
 
 ## Lab-3 Dimming LED
 
